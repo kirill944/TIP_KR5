@@ -14,14 +14,13 @@ Express приложение для управления лентой событ
 
 1. Клонировать репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/kirill944/TIP_KR5
 cd event-feed-api
 ```
 
 2. Установить зависимости:
 ```bash
-git clone <repository-url>
-cd event-feed-api
+npm install
 ```
 
 3. Запустить сервер:
